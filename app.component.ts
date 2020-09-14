@@ -1,3 +1,5 @@
+//example for directives class and style binding
+
 import { Component } from '@angular/core';
 
 
